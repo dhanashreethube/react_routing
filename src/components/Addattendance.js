@@ -19,7 +19,7 @@ export default function () {
       id:id,
       
       shift:shift,
-      empId:empId,
+      empId:empId,1234
       empName:empName,
       remark:remark,
       date:date,
